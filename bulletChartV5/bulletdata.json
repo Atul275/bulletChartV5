@@ -1,0 +1,6 @@
+[
+	{"title":"Sales","subtitle":"in Millions","ranges":[100,135,142],"measures":[51,144],"markers":[125]},
+	{"title":"Cost","subtitle":"in Millions","ranges":[93,105,122],"measures":[28,104],"markers":[75]},
+	{"title":"Transactions","subtitle":"in Thousands","ranges":[125,145,155],"measures":[40,133],"markers":[100]},
+	{"title":"Margin","subtitle":"in Millions","ranges":[23,30,33],"measures":[10,28],"markers":[23]}
+]
